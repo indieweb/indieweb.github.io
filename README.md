@@ -1,3 +1,3 @@
 # indieweb.org
 
-Head over to [Issues](https://github.com/indieweb/indieweb.org/issues)
+Head over to the [wiki](https://github.com/indieweb/indieweb.org/wiki)
